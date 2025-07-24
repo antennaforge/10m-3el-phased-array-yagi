@@ -1,3 +1,3 @@
 # 10m-yagi-phased-array
 
-This antenna is based on the design by Cebik, with slight modifications (antenna element materials). 
+This antenna is based on the yagi design by [Cebik](https://www.arrl.org/files/file/Product%20Notes/Antenna_Compendium_Vol_8/Cebik2a.pdf), with slight modifications (antenna element materials). 

@@ -1,4 +1,4 @@
-# Element construction
+# Element construction - Overview
 
 There are three dipoles (elements):
 1. Director Dipole. Based on Cebik medium duty design, this dipole is 191 inches long. A half element is 95.5 inches long. (Prototype half dipole is 95 inches.)
@@ -38,4 +38,17 @@ There are 4 segments in each half of the Forward-fed dipole. All "Mid" segments 
 5. Tip segment (6 mm K&S aluminum tube): Cut to 12 inches. This slides into Mid 3 using Shim 1. This will be the tuning tube, all others are fixed. See Cebik antenna element lengths table below.
 
 ## Rear-fed Dipole
+
+# Preparing elements and Connectors
+
+## Burring and stripping
+
+1. Burr the insides of both ends of arrow shafts
+<img src='images/elements/element-arrow-burr.jpeg' width='50%'>
+2. Test that the burring created a conductive path for connectors to work.
+<img src='images/elements/element-arrow-burr-test.jpeg' width='50%'>
+3. Do the same for the element side of the root tube, the tent pole. One inch of the boom side of the tent pole is stripped. Test connections as well. 
+4. 
+
+## Stripping
 
