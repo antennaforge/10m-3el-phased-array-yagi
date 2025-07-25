@@ -47,7 +47,7 @@ There are 4 segments in each half of the Forward-fed dipole. All "Mid" segments 
 
 ## Rear-fed Dipole
 
-There are 4 segments in each half of the Rear-fed dipole. All "Mid" segments are arrow shafts. The root tube is a tent pole. The tip tube is an aluminum tube that slides inside the last arrow shaft.
+There are 5 segments in each half of the Rear-fed dipole. All "Mid" segments are arrow shafts. The root tube is a tent pole. The tip tube is an aluminum tube that slides inside the last arrow shaft.
 
 1. Root segment (tent pole): Cut to 14.5 inches
 2. Mid 1 segment (arrow shaft): Keep original length at 30 inches. Two inches of the root side is stripped and covered with 4 sheets of Shim 1 and slides into the tent pole.
