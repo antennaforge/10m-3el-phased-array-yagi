@@ -13,10 +13,19 @@
 2. Copper tape: https://www.amazon.com/dp/B097HHJQPS
 3. Copper wire 18AWG: https://www.amazon.com/dp/B08QG84CWQ
 4. Copper wire 10AWG: https://www.amazon.com/dp/B0CC5742QQ
-
+5. Copper lugs
+   
 ## Screws and Brass Inserts
 1. Screws
 2. Brass inserts
 
+## Choke
+1. Ferrite toroid 240-43
+2. RG316 coax
+3. Bulkhead SO239 connector
+4. Stranded speaker wire
+5. Terminal lug
+6. 47 K-ohm bleed resistor
+   
 ## 3D Filaments
 1. PETG-CF

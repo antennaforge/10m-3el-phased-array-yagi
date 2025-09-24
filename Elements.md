@@ -9,6 +9,10 @@ For sources of materials for antenna elements, see [Bill of materials](Bill-of-m
 
 ## Connectors
 1. Connector 1: Online Metals 1/4 inch OD, 0.035 inch thick aluminum tube cut to 4 inches
+<img src='images/elements/element-connector1-cut.jpeg' width='50%'> 
+<img src='images/elements/element-connector1-cut-2.jpeg' width='50%'> 
+
+
 2. Connector 2: Online Metals 1/4 inch OD, 0.035 inch thick aluminum tube cut to 3 inches
 
 ## Shims
@@ -59,17 +63,22 @@ There are 5 segments in each half of the Rear-fed dipole. All "Mid" segments are
 
 ## Burring and stripping
 
-1. Burr the insides of both ends of arrow shafts
-<img src='images/elements/element-arrow-burr.jpeg' width='50%'>
-2. Test that the burring created a conductive path for connectors to work.
-<img src='images/elements/element-arrow-burr-test.jpeg' width='50%'>
+1. Burr the insides of both ends of arrow shafts  
+<img src='images/elements/element-arrow-burr.jpeg' width='50%'> 
+2. Test that the burring created a conductive path for connectors to work. 
+<img src='images/elements/element-arrow-burr-test.jpeg' width='50%'> 
 3. Do the same for the element side of the root tube, the tent pole. One inch of the boom side of the tent pole is stripped. Test connections as well. 
 4. Strip 2 inches from one end of each Mid 1 segment (arrow shaft) to ensure proper fit into the tent pole root segment.
 
 ## Stripping
 
-1. Strip 2 inches from the root end of each Mid 1 segment (arrow shaft) to create a snug fit inside the tent pole
+1. Strip 2 inches from the root end of each Mid 1 segment (arrow shaft) to create a snug fit inside the tent pole  
+<img src='images/elements/element-arrow-root-shim-1.jpeg' width='50%'> 
 2. Apply 4 sheets of Shim 1 (copper tape) around the stripped section before insertion
+<img src='images/elements/element-arrow-root-shim-2.jpeg' width='50%'> 
+<img src='images/elements/element-arrow-root-shim-3.jpeg' width='50%'> 
+<img src='images/elements/element-arrow-root-shim-4.jpeg' width='50%'> 
+
 3. Test fit all connections to ensure electrical continuity before final assembly
 4. Mark the insertion depth on each segment to ensure consistent assembly
 
