@@ -2,56 +2,51 @@
 
 ## Test details
 
-Test date:
+1. Antenna: 10m 3-element phased array Yagi (Cebik compact design)
+2. Antenna height: On mast 162+150 inches AGL
+3. Radio: Yaesu FT991A
 
-Antenna height: On mast 162+150 inches AGL
+## GridTracker2 FT8 Screenshots
 
-## South America GridTracker2 Screenshots
+### Australia
 
-### Argentina
+Figure 1. 250 degrees azimuth, 35w
 
-Figure 1. GridTracker2 display showing radio signal paths between North America and South America. Antenna signal picked up by LU1XA, including signal strength, frequency, distance, and time.
+<img src='images/testing/australia-250az-35w.png' alt='' width='80%'>
 
-<img src='images/testing/argentina-signal.png' alt='' width='80%'>
+Figure 2. 250 degrees azimuth, 60w
 
-Figure 2. 
-
-<img src='images/testing/argentina.png' alt='' width='80%'>
+<img src='images/testing/australia-250az-60w.png' alt='' width='80%'>
 
 ### Brazil
 
-Figure 3.
+Figure 3. 150 degrees azimuth, 50w
 
-<img src='images/testing/brazil-signal.png' alt='' width='80%'>
+<img src='images/testing/brazil-150az-50w.png' alt='' width='80%'>
 
-Figure 4
+### Indonesia, Japan, Chile
 
-<img src='images/testing/brazil.png' alt='' width='80%'>
+Figure 4. Multiple QSOs at 330 degrees azimuth, 100w
 
-### Chile
+<img src='images/testing/indonesia-chile-100w-330az-longhop.png' alt='' width='80%'>
 
-Figure 5. 
+<img src='images/testing/indonesia-chile-100w-330az-longhop2.png' alt='' width='80%'>
 
-<img src='images/testing/chile-signal.png' alt='' width='80%'>
+### Greece
 
-Figure 6.
+Figure 5. 40 degrees azimuth, 100w
 
-<img src='images/testing/chile.png' alt='' width='80%'>
+<img src='images/testing/greece-100w-40az.png' alt='' width='80%'>
 
-### Ecuador
+### New Zealand
 
-Figure 7.
+Figure  6. 240az at 100w
 
-<img src='images/testing/colombia-signal.png' alt='' width='80%'>
-
-### Uruguay
-Figure  8. 
-
-<img src='images/testing/uruguay-signal.png' alt='' width='80%'>
+<img src='images/testing/newzealand-240az-100w.png' alt='' width='80%'>
 
 ## WSJT-X QSOs
 
-Figure 9. 
+Figure 6. WSJT-X QSOs
 
 <img src='images/testing/wsjtx-qsos.png' alt='' width='80%'>
 

@@ -20,12 +20,11 @@
 2. Brass inserts
 
 ## Choke
-1. Ferrite toroid 240-43
-2. RG316 coax
-3. Bulkhead SO239 connector
-4. Stranded speaker wire
+1. Ferrite toroid 240-31
+2. RG400 coax
+3. SO239 connector
 5. Terminal lug
-6. 47 K-ohm bleed resistor
+6. Ferrite beads on coax
    
 ## 3D Filaments
 1. PETG-CF
