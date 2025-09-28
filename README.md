@@ -4,5 +4,7 @@ This HF antenna is based on the [3-element yagi design](https://antenna2.github.
 
 Table of contents [here](Table-of-contents.md)
 
+Have fun building this one.
+
 73 de Herman Tolentino, KQ4ZGQ
 
