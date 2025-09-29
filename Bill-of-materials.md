@@ -3,9 +3,13 @@
 ## Antenna Dipole Elements
 
 1. Tent poles: https://www.amazon.com/dp/B0D17T46FL?th=1
-2. Arrow shafts / truss masts: https://www.amazon.com/dp/B07L5M5MLR
+2. Arrow shafts / truss masts (need 2 sets): https://www.amazon.com/dp/B07L5M5MLR
 3. Aluminum tube (tip) and element connectors: https://www.mcmaster.com/catalog/131/4227/9056K61, 
 4. Antenna boom: https://www.mcmaster.com/catalog/131/4228/6546K53
+
+## Truss
+1. Paracord (see [Truss.md](Truss.md) for cord lengths) - https://www.amazon.com/dp/B0D1DHBP4F
+2. Arrow shafts (see above)
 
 ## Copper conductors
 
