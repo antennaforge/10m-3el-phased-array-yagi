@@ -18,7 +18,7 @@
 
 Adjusted tuning sequence (with length asymmetry in mind)
 1.	Check mechanical assembly  
-    1.1 Confirm rear-fed element is installed as indeed the longer one. (I label them with Brother P-Touch label printer. You can label them with Sharpie pen also.) 
+    1.1 Confirm rear-fed element is installed as indeed the longer one. (I label them with Brother P-Touch label printer. You can label them with Sharpie pen also.)  
 	1.2 Confirm forward-fed element is the shorter one.  
 2.	Resonance check individually  
     2.1 Start from Prototype element length measurements (See Table 1). The Prototype yagi has the similar materials used for elements and phasing harness and optimal performance measurements.  
