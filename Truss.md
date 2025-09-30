@@ -1,8 +1,8 @@
 # Truss
 
 ## Setting up the truss mast
-1. Cut arrow shaft to 15-inch length x 6
-2. Label the masts for each element.
+1. Cut arrow shaft to 15-inch length x 6 (2 per dipole element)
+2. Label the pair masts for each element.
 
 <img src='images/truss/mast-labels.jpeg' width='30%'> 
 
@@ -36,10 +36,12 @@
 | Forward-fed | 61             |
 | Director    | 55             |
 
-4. During disassembly, just clip the tensioner on the mast clip to prevent accidental unwinding and messy cord tangles.
+4. During assembly insert each mast pair into the corresponding tubes on the truss base.
+
+5. During disassembly, just clip the tensioner on the mast clip to prevent accidental unwinding and messy cord tangles.
 
 <img src='images/truss/mast-disassembly.jpeg' width='30%'> 
 
-5. Disassembled masts with cord wrapped around each pair. 
+6. Disassembled masts with cord wrapped around each pair. 
 
 <img src='images/truss/truss-masts.jpeg' width='30%'> 
