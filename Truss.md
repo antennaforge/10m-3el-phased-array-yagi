@@ -2,7 +2,7 @@
 
 ## Setting up the truss mast
 1. Cut arrow shaft to 15-inch length x 6 (2 per dipole element)
-2. Label the pair masts for each element.
+2. Label the pair of masts for each element.
 
 <img src='images/truss/mast-labels.jpeg' width='30%'> 
 
