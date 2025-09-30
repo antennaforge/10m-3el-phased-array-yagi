@@ -20,7 +20,7 @@
 |-------------|----------------|
 | Rear-fed    | 160            |
 | Forward-fed | 148            |
-| Director    | 148            |
+| Director    | 146            |
 
 2. Attach the tensioner to the ends of each cord.
 

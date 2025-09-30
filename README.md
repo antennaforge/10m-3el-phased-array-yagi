@@ -1,6 +1,6 @@
 # 10m-yagi-phased-array
 
-This compact lightweight HF antenna is based on the [3-element yagi design](https://antenna2.github.io/cebik/content/a10/ant53.html) by [LB Cebik, W4RNL (SK)](https://www.qcwa.org/w4rnl-13211-sk.htm) with slight modifications (antenna element materials). Many more of his works can be found [here](https://antenna2.github.io/cebik/content/bookant.html).
+This compact lightweight HF antenna is based on the [3-element yagi design](https://antenna2.github.io/cebik/content/a10/ant53.html) by [LB Cebik, W4RNL (SK)](https://www.qcwa.org/w4rnl-13211-sk.htm) with slight modifications (antenna element materials). Many more of his works can be found [here](https://antenna2.github.io/cebik/content/bookant.html) and [here](https://github.com/antenna2/cebik/tree/main).
 
 ## Modifications
 1. Use of combination of tent poles and arrow shafts for dipole elements.
