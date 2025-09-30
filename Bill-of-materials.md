@@ -25,8 +25,8 @@
    1.3 Truss base, terminal: 10-32, 3/4 inch x 6 - https://www.amazon.com/Phillips-Machine-Stainless-Thread-RoyceMart/dp/B08GH98YPS/    
    1.4 Element plate to boom clamp: 10-32, 3/4 inch x 12 (same as above)  
    1.5 Boom clamp brass inserts: 8-32, 1/2 inch x 10 - https://www.amazon.com/Phillips-Machine-Screws-Stainless-Quantity/dp/B0894BY3SF/  
-   1.6 Boom to mast clamp: 10-32, 1.5 inches x 4 (same as 1.2) 
-   1.7 Element clamps: 4-40, 1/2 inch x 54 - https://www.amazon.com/dp/B09B74Y13V?  
+   1.6 Boom to mast clamp: 10-32, 1.5 inches x 4 (same as 1.2)  
+   1.7 Element clamps: 4-40, 1/2 inch x 54 - https://www.amazon.com/dp/B09B74Y13V?   
    1.8 Lock nuts, 10-32 -  https://www.amazon.com/Vifmy-Insert-Locknuts-Stainless-Standard/dp/B0CPHW89YP/  
    1.9 Lock nuts, 4-40 - https://www.amazon.com/dp/B085N483D1  
 
