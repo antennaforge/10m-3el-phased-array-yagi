@@ -17,7 +17,6 @@
 2. Copper tape: https://www.amazon.com/dp/B097HHJQPS
 3. Copper wire 18AWG: https://www.amazon.com/dp/B08QG84CWQ
 4. Copper wire 10AWG: https://www.amazon.com/dp/B0CC5742QQ
-5. Copper lugs
    
 ## Screws and Brass Inserts
 1. Screws  
@@ -41,4 +40,4 @@
 6. Ferrite beads on coax - https://www.amazon.com/dp/B0C9QXBS3J
    
 ## 3D Filaments
-1. PETG-CF
+1. PETG-CF - 
