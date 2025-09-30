@@ -57,7 +57,7 @@ There are 5 segments in each half of the Rear-fed dipole. All "Mid" segments are
 2. Mid 1 segment (arrow shaft): Keep original length at 30 inches. Two inches of the root side is stripped and covered with 4 sheets of Shim 1 and slides into the tent pole.
 3. Mid 2 segment (arrow shaft): Keep original length at 30 inches. This connects to Mid 1 using Connector 1 which is covered with Shim 2. Connector 1 has a 2 inch overlap on each side.   
 4. Mid 3 segment (arrow shaft): Cut to 18.5 inches. This connects to Mid 2 using Connector 2. Connector 2 is covered with 1 and 1/3 sheets of Shim 3 before sliding Mid 3 and Mid 2 over it. Connector 2 has 1.5 inch overlap on each side. 
-5. Tip segment (6 mm K&S aluminum tube): Cut to 12 inches. This slides into Mid 3 using Shim 1. This will be the tuning tube, all others are fixed. See Cebik antenna element lengths table below.
+5. Tip segment (6 mm K&S aluminum tube): Cut to 12 inches. This slides into Mid 3 using Shim 1. This will be the tuning tube, all others are fixed. Pull the tip in or out of Mid 3 to adjust half-element length. See Cebik antenna element lengths table in [Tuning](Tuning.md) Table 1.
 
 # Preparing elements and Connectors
 
@@ -79,6 +79,6 @@ There are 5 segments in each half of the Rear-fed dipole. All "Mid" segments are
 <img src='images/elements/element-arrow-root-shim-3.jpeg' width='50%'> 
 <img src='images/elements/element-arrow-root-shim-4.jpeg' width='50%'> 
 
-3. Test fit all connections to ensure electrical continuity before final assembly
-4. Mark the insertion depth on each segment to ensure consistent assembly
+3. Test fit all connections to ensure electrical continuity before final assembly.
+4. Mark the insertion depth on each segment to ensure consistent lengths assembly and re-assembly.
 
