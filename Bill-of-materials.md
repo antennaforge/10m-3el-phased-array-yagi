@@ -2,13 +2,13 @@
 
 ## Antenna Dipole Elements
 
-1. Tent poles: https://www.amazon.com/dp/B0D17T46FL?th=1
-2. Arrow shafts / truss masts (need 2 sets): https://www.amazon.com/dp/B07L5M5MLR
+1. Tent poles (1 pack, good for 2 antennas): https://www.amazon.com/dp/B0D17T46FL?th=1
+2. Arrow shafts / truss masts (pack of 12, need 2 sets): https://www.amazon.com/dp/B07L5M5MLR
 3. Aluminum tube (tip) and element connectors, 1/4 inch OD, 0.035 inch thick, 3 feet x 5: https://www.mcmaster.com/catalog/131/4227/9056K61. For tuning tips, cut 3 of 3 foot tubes into 2 equal halves. Use the remaining 2 3-foot tubes for arrow shaft connectors.   
-4. Antenna boom, aluminum square tube, 1 inch x 1 inch x 6 feet: https://www.mcmaster.com/catalog/131/4228/6546K53
+4. Antenna boom, aluminum square tube, 1 inch x 1 inch x 6 feet: https://www.mcmaster.com/catalog/131/4228/6546K53. Cut to 5 feet length.
 
 ## Truss
-1. Paracord (see [Truss.md](Truss.md) for cord lengths) - https://www.amazon.com/dp/B0D1DHBP4F
+1. Paracord (see [Truss.md](Truss.md) for estimating cord lengths) - https://www.amazon.com/dp/B0D1DHBP4F
 2. Arrow shafts (see above)
 
 ## Copper conductors
