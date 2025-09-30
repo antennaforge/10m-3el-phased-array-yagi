@@ -24,7 +24,7 @@ The purpose of the truss system is to prevent excessive sagging of the 3 element
 | Forward-fed | 148            |
 | Director    | 146            |
 
-2. Attach the tensioner to the ends of each cord.
+2. Attach the tensioner to the ends of each cord using a square knot.
 
 <img src='images/truss/paracord-tensioner.jpeg' width='30%'> 
 
